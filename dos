@@ -1,3 +1,7 @@
 This file uses DOS line endings (CRLF).
 
 This is just another line of text.
+
+To avoid messy characters with Git diffs, run:
+
+git config core.whitespace cr-at-eol
